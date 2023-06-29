@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pufereq&theme=dark" width="600"/>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=pufereq&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pufereq&style=for-the-badge&color=blue" alt="profile views"/>
 </div>
 
 ---
