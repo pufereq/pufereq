@@ -1,22 +1,21 @@
 <div id="header" align="center">
   <h1>
-    Hello, y'all
+    Hi, y'all
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=32px>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="600">
 </div>
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pufereq&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pufereq&layout=compact&theme=dark" height="100"/>
+  <img src="https://komarev.com/ghpvc/?username=pufereq&style=for-the-badge&color=5e81ac" alt="profile views">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pufereq&show_icons=true&theme=nord" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pufereq&layout=compact&theme=nord" width="250">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pufereq&theme=dark" width="600"/>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=pufereq&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pufereq&theme=nord" width="600">
 </div>
 
 ---
