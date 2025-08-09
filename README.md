@@ -21,3 +21,9 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pufereq&theme=nord" width="600">
 </div>
+
+## contact me
+
+| [discord](https://discord.com/users/531164257300250655) |
+|---------|
+| ![@pufereq](https://img.shields.io/badge/discord-%40pufereq-blue?logo=discord) |
