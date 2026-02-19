@@ -16,10 +16,10 @@
   <a href="https://wakatime.com/@d3784eea-797e-46bc-84f0-75275a82657d"><img src="https://wakatime.com/badge/user/d3784eea-797e-46bc-84f0-75275a82657d.svg" alt="Total time coded since Feb 17 2023" /></a>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pufereq&show_icons=true&theme=nord" width="350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pufereq&layout=compact&theme=nord" width="250">
+  <img src="https://github-stats-extended.vercel.app/api?username=pufereq&show_icons=true&theme=nord" width="350">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pufereq&layout=compact&theme=nord" width="250">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pufereq&theme=nord" width="600">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pufereq&theme=nord" width="600">
 </div>
 
 ## contact me
